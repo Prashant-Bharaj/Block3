@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Block3</string>
+    <string name="big_button">Big Button</string>
+    <string name="small_button">Small Button</string>
+    <string name="north">north</string>
+    <string name="east">East</string>
+    <string name="south">south</string>
+    <string name="west">west</string>
+    <string name="center">center</string>
+    <string name="ne">ne</string>
+    <string name="es">es</string>
+    <string name="se">se</string>
+    <string name="nw">nw</string>
+    <string name="sw">sw</string>
 </resources>
